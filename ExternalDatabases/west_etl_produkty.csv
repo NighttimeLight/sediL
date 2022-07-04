@@ -1,0 +1,142 @@
+p_id,p_nazwa,p_k_id,p_t_id,p_d_id
+109,ML Soccer,5,2,1
+110,NFL Football,5,2,1
+111,ML Baseball,5,2,1
+71,Zaczarowany ogród,1,1,5
+72,Skazani na Shawshank,9,1,5
+73,Klient,6,1,5
+74,Cztery wesela i pogrzeb,13,1,5
+76,Jumanji,2,1,5
+78,Szklana pulapka 3,11,1,5
+79,Zapomniec o Paryzu,13,1,5
+81,Halloween 6,10,1,5
+83,Sabrina,13,1,5
+84,Podejrzani,6,1,5
+85,Gor¹czka,6,1,5
+87,Kongo,2,1,5
+88,Chlopaki na bok,9,1,5
+89,Przed egzekucja,9,1,5
+90,Ojciec panny mlodej 2,3,1,5
+137,Cukierki Wedel,7,3,3
+138,Popcorn,4,3,3
+139,Czekolada,7,3,3
+140,Chipsy ziemniaczane,4,3,3
+141,Piwo,12,3,2
+116,Gra pozorów,9,1,6
+119,Apollo 13,11,1,6
+120,Jurassic Park,2,1,6
+123,Kongo,2,1,6
+124,Prezydent-milosc w Bialym Domu,13,1,6
+126,Ojciec panny mlodej 2,3,1,6
+125,Zapomniec o Paryzu,13,1,6
+121,Król Lew,1,1,6
+117,Stan zagrozenia,11,1,6
+114,Wywiad z wampirem,10,1,6
+115,Szklana pulapka 3,11,1,6
+113,System,6,1,6
+91,Psychopata,6,1,5
+86,Golden Eye,11,1,5
+80,System,6,1,5
+127,Wywiad z wampirem,10,1,4
+128,Jumanji,2,1,4
+129,Slodkie zmartwienia,3,1,4
+130,Szklana pulapka 3,11,1,4
+131,Zapomniec o Paryzu,13,1,4
+132,System,6,1,4
+133,Halloween 6,10,1,4
+135,Sabrina,13,1,4
+75,Wywiad z wampirem,10,1,5
+118,Zakonnica w przebraniu,3,1,6
+122,Biali nie potrafia skakac,3,1,6
+77,Slodkie zmartwienia,3,1,5
+82,Wioska przekletych ,10,1,5
+112,Firma,6,1,6
+134,Wioska przekletych ,10,1,4
+136,Podejrzani,6,1,4
+1,Piekne dziewczyny,9,1,5
+2,Toy Story,1,1,5
+3,Rozwazna i romantyczna,13,1,5
+4,Holiday of the Year,13,1,5
+5,Pulp Fiction,11,1,5
+6,Pod presja,6,1,5
+7,Od zmierzchu do switu,11,1,5
+8,Hellraiser: Dziedzictwo krwi,10,1,5
+9,Klatka dla ptaków,3,1,5
+10,Muppety na Wyspie Skarbów,1,1,5
+11,Bodyguard,6,1,5
+12,Aladdin,1,1,5
+13,Gra pozorów,9,1,5
+14,Zakonnica w przebraniu,3,1,5
+15,Zabójcza bron 3,11,1,5
+16,Biali nie potrafia skakac,3,1,5
+17,Nieuchwytny cel,11,1,5
+18,Boomerang,13,1,5
+19,Uwolniæ orkê,1,1,5
+20,Listonosz ,9,1,5
+21,Patriot Games,11,1,5
+22,Ludzie honoru,9,1,5
+23,Swiat Wayne'a,3,1,5
+24,Smetarz zwierzaków II,10,1,5
+25,Wiecznie mlody,2,1,5
+26,Miesiac miodowy w Las Vegas,13,1,5
+27,Wiele halasu o nic,13,1,5
+28,Potezne Kaczory,1,1,5
+29,Dzien swistaka,3,1,5
+30,Male kobietki,9,1,5
+31,Zapach kobiety,9,1,5
+32,Obcy 3,2,1,5
+33,Dracula,10,1,5
+34,Nagi instynkt,6,1,5
+35,Wsciekle psy,6,1,5
+36,Beethoven,1,1,5
+37,Puppet Master 4,10,1,5
+38,Samotnicy,13,1,5
+39,Pelnia zla,6,1,5
+40,IQ,13,1,5
+41,Puppet Master 5,10,1,5
+42,Gwiezdne wrota,2,1,5
+43,Sultani westernu,3,1,5
+44,Lista Schindlera,9,1,5
+45,Klub szczescia,9,1,5
+46,Jurassic Park,2,1,5
+47,Pani Doubtfire,3,1,5
+48,Braveheart,9,1,5
+49,Apollo 13,11,1,5
+50,Glupi i glupszy,3,1,5
+51,Straznik czasu,2,1,5
+52,Junior,3,1,5
+53,Dzika rzeka,6,1,5
+54,Na linii ognia,11,1,5
+55,Firma,6,1,5
+56,Bezsennosc w Seattle,13,1,5
+57,Philadelphia,9,1,5
+58,Tajemnica Syriusza,2,1,5
+59,Ludzie miasta ,9,1,5
+60,Prawdziwe klamstwa,11,1,5
+61,Wieczna milosc,9,1,5
+62,Wesele Muriel,3,1,5
+63,Stan zagrozenia,11,1,5
+64,Forrest Gump,9,1,5
+65,W sieci,6,1,5
+66,Grunt to rodzinka,3,1,5
+67,Prezydent-milosc w Bialym Domu,13,1,5
+68,Dwanascie malp,2,1,5
+69,Toy Story,1,1,5
+70,Król Lew,1,1,5
+92,Woda sodowa,8,3,2
+93,Gorilla Gorilla,5,2,1
+94,Frog Crossing,5,2,1
+95,Killer Combat,5,2,1
+96,Fighting Soldier,5,2,1
+97,Tetris,5,2,1
+98,Ponies and more,5,2,1
+99,ABC Learning,5,2,1
+100,Jewels,5,2,1
+101,Virtuo Samurai,5,2,1
+102,Q-Zap,5,2,1
+103,Teddy Bears,5,2,1
+104,Blast Em,5,2,1
+105,Punch Out,5,2,1
+106,Destroyer,5,2,1
+107,Obcy - decyduj¹ce starcie ,5,2,1
+108,NBA Slam,5,2,1
